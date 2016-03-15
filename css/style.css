@@ -1,0 +1,19 @@
+.the-top {
+	background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(background.jpg) no-repeat center center fixed;
+	background-size: cover;
+	height: 100vh;
+}
+li {
+	display: inline-block;
+}
+.jumbotron {
+	margin-top: 20vh;
+}
+.white {
+	color: white;
+}
+.center {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
